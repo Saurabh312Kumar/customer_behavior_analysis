@@ -137,6 +137,3 @@ It showcases the ability to transform raw data into meaningful insights and pres
 ##  Author
 **Saurabh Kumar**
 Aspiring Data Analyst
-
-**Saurabh Kumar**
-Aspiring Data Analyst
